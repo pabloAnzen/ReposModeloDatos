@@ -1,1 +1,1 @@
-En este repositorio se guardan los archivos necesarios para el sitio
+En este repositorio se guardan los archivos necesarios para el sitio web
